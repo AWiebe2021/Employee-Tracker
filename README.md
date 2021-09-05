@@ -17,11 +17,11 @@ application to manage a company's employee database, using Node.js, Inquirer, an
 ## Installation
 
 Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough 
-video that demonstrates its functionality and all of the tests passing. You’ll need to submit a 
-link to the video and add it to the README of your project.
+video that demonstrates its functionality. There is a 
+link to the video in the README of this project.
 
--The link to the video: https://github.com/AWiebe2021/Team_Profile_Generator/blob/1f6a483d3318f2bab07bd3e0058fd18b678a0c14/Team_Profile_Generator.mp4 \
--The projects code can be accessed at: https://github.com/AWiebe2021/Team_Profile_Generator
+-The link to the video: https://github.com/AWiebe2021/Employee-Tracker/raw/main/SQL%20Challenge-Employee%20Tracker.mp4
+-The projects code can be accessed at:https://github.com/AWiebe2021/Employee-Tracker
 
 ## Screenshot
 ![Employee-Tracker Screenshot](./Screenshot.png)
